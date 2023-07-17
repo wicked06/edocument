@@ -58,7 +58,7 @@ header
     transition: all .55s ease;
     text-decoration: none;
 }
-.navlist a:hover
+.navlist a:hoverfooter
 {
     border-bottom: 2px solid #222;
 }
@@ -74,7 +74,7 @@ header
 {
     height: 100%;
     width: 100%;
-    min-height: 95vh;
+    min-height: 94vh;
     background: linear-gradient(245.59deg, #8b8232 0%, #918835,  #F0E161 75.52%);
     position: relative;
     display: grid;

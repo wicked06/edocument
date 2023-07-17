@@ -84,7 +84,7 @@ session_start();
  <div class="footer-content">
     
     <div class="footer-bottom">
-      <p>copyright &copy; The IS-UATech Enthusiast designed by <span>Rex Bernesto</span></p>
+      <p>copyright &copy; The IS-UATech Enthusiast </p>
     </div>
  </div>
 </footer>

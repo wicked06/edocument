@@ -1,7 +1,7 @@
 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
-                        <div class="text-muted">copyright &copy; The IS-UATech Enthusiast designed by <span>Rex Bernesto</span></div>
+                        <div class="text-muted">copyright &copy; The IS-UATech Enthusiast</div>
                             <div>
                                 <a href="#">Privacy Policy</a>
                                 &middot;
